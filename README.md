@@ -15,3 +15,15 @@ Talk includes:
   - Demo of [Kiss & Makeup](https://nellarro.kiss-n-makeup.surge.sh)
 
 [Presentation Slides](https://docs.google.com/presentation/d/1Kk7fc3Xz2ae9wu65lh3XLMvwV2YTEziZVkhORrCIVtc/pub?start=true&loop=false&delayms=5000)
+
+
+### The Junior Dev & You
+[Front End Design Conference](http://frontenddesignconference.com/) Talk. First actual conference talk. 
+
+Talk includes:
+  - [Skillcrush](www.skillcrush.com) 
+  - Why hiring for greatness in a junior developer is essential.
+  - Whether or not your company is ready for a junior developer.
+  - Why hiring a junior can lead to better outcomes for your team and company.
+  
+[Presentation Slides](http://slides.com/jenellpizarro/deck-1)
