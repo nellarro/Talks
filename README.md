@@ -1,4 +1,4 @@
-#Fantastic Talks and Where to Find Them
+# Fantastic Talks and Where to Find Them
 
 These are the list of the talks I've given, in order, and where they are published on the web.
 
